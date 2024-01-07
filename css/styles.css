@@ -156,6 +156,7 @@ body {
   border: 1px solid var(--LIGHT-SLATE, #8e8f99);
   background: var(--CLOUD, #f4f4fd);
   height: 112px;
+  margin-bottom: 8px;
 }
 
 .setting-section-three {
