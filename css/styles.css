@@ -236,9 +236,16 @@ body {
   justify-content: center;
 }
 
-.setting-section-three-social-networks-item-a:hover,
+.setting-section-three-social-networks-item-a:hover {
+  background-color: #404bbf;
+}
+
 .setting-section-three-social-networks-item-a:focus {
   background-color: #404bbf;
+}
+
+.setting-section-three-social-networks-item-fill {
+  fill: #f4f4fd;
 }
 
 .setting-section-four {
