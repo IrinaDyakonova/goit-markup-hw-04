@@ -335,9 +335,8 @@ body {
 }
 
 .setting-footer-div-one {
-  display: flex;
-  align-items: baseline;
   margin-right: 120px;
+  float: left;
 }
 
 .setting-footer-div-two-paragraph {
@@ -446,8 +445,9 @@ a {
   padding: 0 15px;
 }
 
-.container-flex {
+.container-setting-dop {
   display: flex;
+  align-items: baseline;
 }
 
 img {
