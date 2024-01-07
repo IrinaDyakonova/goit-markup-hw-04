@@ -294,6 +294,7 @@ body {
 
 .setting-section-four-list-item {
   width: calc((100% - 48px) / 3);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .setting-section-four-list-item-container-img {
@@ -320,14 +321,6 @@ body {
 .setting-section-four-list-item:hover {
   box-shadow: 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);
-}
-
-.setting-section-four
-  .container
-  .setting-section-four-main-title
-  .setting-section-four-list
-  .setting-section-four-list-item {
-  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .setting-section-four-list-item:hover
